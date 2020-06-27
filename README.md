@@ -4,7 +4,9 @@ About
 --
 The color picker game is a interactive website based around the RGB color system. An RGB color is generated at random. There are three or six colors (depending on difficulty) that you can pick to guess the displayed RGB color. 
 
-![Demo]("https://giphy.com/embed/VhtZElw0gd02yGVhOq")
+Demo
+-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 Main features
 -
