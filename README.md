@@ -6,7 +6,7 @@ The color picker game is a interactive website based around the RGB color system
 
 Demo
 -
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media2.giphy.com/media/VhtZElw0gd02yGVhOq/giphy.gif)
 
 Main features
 -
